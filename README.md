@@ -6,3 +6,8 @@ MODULES
 -- SignUp/SignIn Modal
 -- Simple Admin Dashboard [icludes inventory/books details, price, quantity availability]
 -- Modal to view Books available in the particular inventory.
+
+DEMO
+https://levioosa.000webhostapp.com/BOOKINVENTORY
+username:host
+password:root
